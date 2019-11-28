@@ -1,4 +1,4 @@
 # Go Module Example
 
-A hello world app with goland using go modules.
+A hello world app with golang using go modules.
 
